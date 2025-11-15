@@ -1,0 +1,6 @@
+Package: mytool
+Version: 1.0
+Architecture: all
+Maintainer: Mokhtar
+Description: My Python Tool for Termux
+
